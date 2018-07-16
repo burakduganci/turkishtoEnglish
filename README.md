@@ -14,7 +14,7 @@ Now that you have not done anything it's time to build your application:
 
 ```
 var turkishtoEnglish = require('turkishtoEnglish');
-var convertedText = turkishtoEnglish("Şu yoğurdu sarımsaklasak da mı saklasak?")
+var convertedText = turkishtoEnglish("Şu yoğurdu sarımsaklasak da mı saklasak?");
 console.log(convertedText); // Su yogurdu sarimsaklasak da mi saklasak?
 ```
 
