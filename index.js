@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function turkishtoEnglish (str) {
+module.exports = function turkishtoenglish (str) {
     return str.replace(/[ş]+/g,'s')
         .replace(/[Ş]+/g,'S')
         .replace(/[Ü]+/g,'U')

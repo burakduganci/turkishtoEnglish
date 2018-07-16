@@ -1,6 +1,6 @@
 {
   "name": "turkishtoenglish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turkish characters convert to English characters.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,10 @@
     "url": "git+https://github.com/burakduganci/turkishtoEnglish.git"
   },
   "keywords": [
-    "turkishtoenglish",
-    "turkish"
+    "turkish-to-english",
+    "turkish-characters",
+    "turkish-char-problem",
+    "turkish-char"
   ],
   "author": "Burak Duganci",
   "license": "ISC",
