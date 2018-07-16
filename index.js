@@ -1,5 +1,7 @@
-String.prototype.turkishtoEnglish = function () {
-    return this.replace(/[ş]+/g,'s')
+'use strict';
+
+module.exports = function turkishtoEnglish (str) {
+    return str.replace(/[ş]+/g,'s')
         .replace(/[Ş]+/g,'S')
         .replace(/[Ü]+/g,'U')
         .replace(/[ü]+/g,'u')

@@ -1,0 +1,23 @@
+{
+  "name": "turkishtoenglish",
+  "version": "1.0.0",
+  "description": "Turkish characters convert to English characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakduganci/turkishtoEnglish.git"
+  },
+  "keywords": [
+    "turkishtoenglish",
+    "turkish"
+  ],
+  "author": "Burak Duganci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakduganci/turkishtoEnglish/issues"
+  },
+  "homepage": "https://github.com/burakduganci/turkishtoEnglish#readme"
+}
